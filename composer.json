@@ -1,0 +1,17 @@
+{
+  "name": "barac/dbmovil",
+  "autoload": {
+    "psr-4": {
+      "Barac\\Dbmovil\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Barac Fabregat",
+      "email": "calmestend@gmail.com"
+    }
+  ],
+  "require": {
+    "phpactor/phpactor": "^0.18.1"
+  }
+}
